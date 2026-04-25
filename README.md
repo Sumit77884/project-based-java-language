@@ -1,4 +1,4 @@
-# PBJL_23BCS11219_SUMIT
+# project-based-java-language
 # 🎬 Online Movie Ticket Booking System (LLD)
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
